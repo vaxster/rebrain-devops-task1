@@ -1,24 +1,25 @@
-#Обучение Markdown
+# Обучение Markdown
 ![вставка рисунка](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-##В данном репозитории будут находится файлы для заданий 
+## В данном репозитории будут находится файлы для заданий 
 
-###Такие как 
+### Такие как 
 1. nginx.conf
 2. READMI.md
 
 
-###Также учимся пользоватся командами :
+### Также учимся пользоватся командами :
 ```
 git status
 git add
 git commit
 ```
-###Ниже ссылка на документацию 
+### Ниже ссылка на документацию 
+
 [Markdown](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-###Работа с таблицей
+### абота с таблицей
 
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
